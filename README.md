@@ -24,7 +24,7 @@ To compile and run this project, you need:
 ### Clone the Repository
 
 ```
-git clone https://github.com/yourusername/TCP-Server-Application-In-C.git
+git clone https://github.com/debasish26/TCP-Server-Application-In-C.git
 cd TCP-Server-Application-In-C
 ```
 
