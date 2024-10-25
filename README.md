@@ -6,6 +6,9 @@ This project is a simple TCP server-client application written in C, demonstrati
 
 The TCP Server Application allows a client to connect to the server, send messages, and receive responses. It showcases the basic principles of network communication using sockets, including socket creation, binding, listening, and accepting connections.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/59a4997e-09f0-44e7-9bd4-8dfcc49a5645)
+
 ## Features
 
 - **TCP Socket Communication**: Establishes a TCP connection between the server and client.
